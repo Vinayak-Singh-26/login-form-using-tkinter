@@ -1,1 +1,1 @@
-# login-form using tkhinter and sqlite
+# login-form using tkinter and sqlite
